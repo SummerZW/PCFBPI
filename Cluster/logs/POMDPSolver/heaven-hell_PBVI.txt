@@ -1,0 +1,14 @@
+Started loading model Models/heaven-hell.POMDP
+|S| = 20|A| = 4|O| = 11
+Model file corrupted - needed to fix some transition values
+Done loading model
+
+Init value function to min
+Min R value = -1.0 init value = -99.99999999999991
+Begin blind policy computation  4 actions
+.......................Done action 0 after 231 iterations |V| = 1
+.......................Done action 1 after 231 iterations |V| = 1
+.......................Done action 2 after 231 iterations |V| = 2
+.......................Done action 3 after 231 iterations |V| = 3
+Done blind policy
+0.5

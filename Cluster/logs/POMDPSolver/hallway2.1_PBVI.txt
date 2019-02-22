@@ -1,0 +1,15 @@
+Started loading model Models/hallway2.1.POMDP
+|S| = 93|A| = 5|O| = 17
+.Done loading model
+
+Init value function to min
+Min R value = 0.0 init value = 0.0
+Begin blind policy computation  5 actions
+Done action 0 after 2 iterations |V| = 1
+Done action 1 after 3 iterations |V| = 1
+Done action 2 after 2 iterations |V| = 1
+Done action 3 after 2 iterations |V| = 1
+Done action 4 after 2 iterations |V| = 1
+Done blind policy
+0.011419
+java.lang.IllegalArgumentException: n must be positive

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/alt-rt.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/jce.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/resources.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jre7/lib/rt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
